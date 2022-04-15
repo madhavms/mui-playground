@@ -6,9 +6,9 @@ MUI.
 
 ### Light Mode
 
-![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/1.png)
-
 ![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/2.png)
+
+![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/1.png)
 
 ### Dark Mode 
 
