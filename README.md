@@ -6,5 +6,15 @@ MUI.
 
 ### Light Mode
 
-![alt text](https://github.com/madhavms/React-Context-Provider-Example/blob/master/Images/3.png)
+![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/1.png)
+
+![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/2.png)
+
+### Dark Mode 
+
+![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/1_dark.png)
+
+![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/2_dark.png)
+
+
 
