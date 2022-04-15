@@ -14,7 +14,7 @@ MUI.
 
 ![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/1_dark.png)
 
-![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/2_dark.png)
+![alt text](https://github.com/madhavms/mui-playground/blob/master/app_images/2_darker.png)
 
 
 
