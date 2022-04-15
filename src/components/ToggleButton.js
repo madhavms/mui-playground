@@ -25,7 +25,7 @@ export const ToggleButton = () => {
         <Box
               sx={{
                 display: 'flex',
-                width: '50%',
+                width: '30%',
                 alignItems: 'center',
                 justifyContent: 'center',
                 bgcolor: 'background.default',
@@ -34,7 +34,7 @@ export const ToggleButton = () => {
                 marginRight: 30
               }}
             >
-              {theme.palette.mode} mode
+              {theme.palette.mode}
               <IconButton sx={{ ml: 1 }} onClick={colorMode.toggleColorMode} color="inherit">
                 {theme.palette.mode === 'dark' ? <Brightness7Icon /> : <Brightness4Icon />}
               </IconButton>

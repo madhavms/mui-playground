@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import MUIThemeProvider from './components/ThemeProvider';
+import TagManager from 'react-gtm-module'
+ 
+
 
 const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);

@@ -63,8 +63,8 @@ const theme = useTheme();
                     </Typography>
                 </Box>
                 <Box>
-                    <Typography variant="h6" component="h3" marginTop={1}>
-                    From ${props.rate}
+                    <Typography variant="h6" component="h4" marginTop={1}>
+                    From £{props.rate}
                     </Typography>
                 </Box>
 
