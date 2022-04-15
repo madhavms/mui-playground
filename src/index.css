@@ -10,3 +10,9 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: none !important;
 }
+
+main {
+    display:'flex';
+    width: "100%";
+    min-width: "100%";
+  }

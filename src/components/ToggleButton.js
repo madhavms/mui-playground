@@ -12,7 +12,6 @@ export const ToggleButton = () => {
     const colorMode = React.useMemo(
       () => ({
         toggleColorMode: () => {
-          console.log(mode);
           setMode((prevMode) => prevMode ==='light'? 'dark' :'light');
       
         },

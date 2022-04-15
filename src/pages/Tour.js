@@ -18,7 +18,6 @@ const Tour = () => {
     const theme = useTheme(); 
     const city = cities.filter(city => city.id == 1);
     const tour = city[0].tours[id - 1];
-    console.log(theme);
     return(
   
    <Container sx={{ width:900 }}>

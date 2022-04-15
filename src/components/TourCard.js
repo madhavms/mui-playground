@@ -13,7 +13,7 @@ const theme = useTheme();
     
     return(
         
-        <Grid item xs={3}>
+        <Grid item xs={3} >
         <ThemeProvider theme={theme}>
         <Link to={`/${props.id}`}>
         <Paper elevation={3}> 
